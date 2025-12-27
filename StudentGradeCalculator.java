@@ -1,4 +1,4 @@
-package com.task2;
+package com.task1;
 import java.util.Scanner;
 
 public class StudentGradeCalculator {
@@ -53,4 +53,5 @@ public class StudentGradeCalculator {
 
         sc.close();
     }
+
 }
