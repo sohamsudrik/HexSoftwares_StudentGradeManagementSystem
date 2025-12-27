@@ -1,4 +1,4 @@
-package com.task2;
+package com.task1;
 
 public class Student {
 	
@@ -40,3 +40,4 @@ public class Student {
 	        }
 	    }
 	}
+
